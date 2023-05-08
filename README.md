@@ -11,6 +11,6 @@ If you are an entity listed in the project and want yourself to be removed from 
 
 Anyone willing to contribute to this project is welcome.
 
-
+To see the map go to: www.Felix3qH4.github.io
 <b>v1.0</b>
 
